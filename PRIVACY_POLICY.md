@@ -1,8 +1,8 @@
 Privacy Policy for SwipeDelete
-Effective Date: [Insert Today's Date]
+Effective Date: 2026/04/08
 
 1. Introduction
-   [Your Name/Developer Name] ("we," "us," or "our") built the SwipeDelete app as a Free app. This SERVICE is provided by [Your Name/Developer Name] at no cost and is intended for use "as is."
+   "ecjung97" ("we," "us," or "our") built the SwipeDelete app as a Free app. This SERVICE is provided by "ecjung97" at no cost and is intended for use "as is."
 
 This page is used to inform website visitors and app users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
