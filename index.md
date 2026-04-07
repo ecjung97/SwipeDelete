@@ -34,4 +34,4 @@ When you choose to delete a file, SwipeDelete uses Android's native MediaStore A
    We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
 
 7. Contact Us
-   If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [Your Email Address].
+   If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: ecjung97@gmail.com.
